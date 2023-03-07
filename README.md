@@ -25,7 +25,7 @@ pip list
 ```
 ```
 pip uninstall jinja2
-pip install jinja2==3.03
+pip install jinja2==3.0.3
 pip list
 ```
 - 3.2 absei
